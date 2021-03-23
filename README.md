@@ -26,10 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-Swagger URL:
+Swagger URL: https://spartacus-demo.eastus.cloudapp.azure.com:8443/occ/v2/swagger-ui.html#/
 
-https://spartacus-demo.eastus.cloudapp.azure.com:8443/occ/v2/swagger-ui.html#/
-
-Stackblitz URL:
-https://stackblitz.com/github/raghureddy5431/spartacus2011v1/tree/master
+Stackblitz URL: https://stackblitz.com/github/raghureddy5431/spartacus2011v1/tree/master
 
